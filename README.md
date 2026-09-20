@@ -1,7 +1,7 @@
 7-Story-Residential-Building-Electrical-Layout-Distribution-System
 Electrical Services Design for a 7-Story Residential Building
 
-📌 Project Overview
+## Project Overview
 
 This project presents a complete electrical services design for a 7-story residential building, designed using **AutoCAD**. The design strictly adheres to standard Bangladesh National Building Code (BNBC) and IEEE safety guidelines, covering room-by-room illumination calculations, feeder cable sizing, circuit protection, and substation/generator sizing.
 
@@ -9,7 +9,7 @@ This project presents a complete electrical services design for a 7-story reside
 
 ---
 
-## 🏛️ Building Specifications
+## Building Specifications
 
 * **Structure:** Ground Floor (Garage/Services) + 6 Residential Floors + Rooftop
 * **Residential Units:** 4 identical units per floor (24 total residential units)
@@ -18,7 +18,7 @@ This project presents a complete electrical services design for a 7-story reside
 
 ---
 
-## ⚡ Technical Summary & System Design
+##  Technical Summary & System Design
 
 ### 1. Electrical Load Parameters
 | Symbol | Description | Power Rating |
@@ -46,7 +46,7 @@ This project presents a complete electrical services design for a 7-story reside
 
 ---
 
-## 📊 Building Equipment Summary
+## Building Equipment Summary
 
 | Appliance / Equipment | Total Quantity | Cable & Conduit Specification |
 | :--- | :---: | :--- |
@@ -59,7 +59,7 @@ This project presents a complete electrical services design for a 7-story reside
 
 ---
 
-## 🔑 Engineering Highlights & Design Decisions
+## Engineering Highlights & Design Decisions
 
 1. **Illumination Sizing:** Fixture counts were calculated based on lumen method requirements per unit area. Single ceiling fans were chosen for $13'\times13'$ bedrooms to maintain proper physical clearance while satisfying air turnover demands.
 2. **Heavy Load Handling:** Provisioned five 4000W 3-pin power sockets per residential unit to support heavy appliances (ACs, geysers, induction cooktops), driving the requirement for a transformer-backed utility connection.
