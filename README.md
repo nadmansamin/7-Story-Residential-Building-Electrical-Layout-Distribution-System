@@ -67,4 +67,3 @@ This project presents a complete electrical services design for a 7-story reside
 
 ---
 
-## 📁 Repository Structure
